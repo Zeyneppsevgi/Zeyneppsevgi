@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeyneppsevgi" alt="zeyneppsevgi" /></a> </p>
 
-- 🔭 I’m currently working on [CaloriesApp](https://github.com/Zeyneppsevgi/caloriCalculator)
+- 🔭 I’m currently working on [KPSSPuanHesaplama]([https://github.com/Zeyneppsevgi/caloriCalculator](https://github.com/Zeyneppsevgi/KPSSPuanHesaplama))
 
 - 🌱 I’m currently learning **Swift & SwiftUI**
 

@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zeynep Sevgi.</h1>
-<h3 align="center">A passionate IOS Developer from Turkey.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyneppsevgi&label=Profile%20views&color=0e75b6&style=flat" alt="zeyneppsevgi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeyneppsevgi" alt="zeyneppsevgi" /></a> </p>
 
-- 🔭  I'm currently working on iOS development
-
-- 🌱 I’m currently learning **Swift & SwiftUI**
+- 🔭  I'm currently working on backend development
 
 - 📝 I regularly write articles on [https://medium.com/@zeyneppsevgi](https://medium.com/@zeyneppsevgi)
-
-- 💬 Ask me about **Swift / SwiftUI**
 
 - 📫 How to reach me **zeyneppsevgi@gmail.com**
 

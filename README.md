@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeyneppsevgi" alt="zeyneppsevgi" /></a> </p>
 
-- 🔭  I'm currently working on backend development
+- 🔭  I'm currently working on backend development(Golang)
 
 - 📝 I regularly write articles on [https://medium.com/@zeyneppsevgi](https://medium.com/@zeyneppsevgi)
 

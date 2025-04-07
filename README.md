@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zeynep Sevgi.</h1>
 
+<p align="center">
+  <img src="951957866431d77793480aba8bb624da2f6b3fb2.gif" alt="golang gif" width="400"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyneppsevgi&label=Profile%20views&color=0e75b6&style=flat" alt="zeyneppsevgi" /> </p>
 
